@@ -1,0 +1,17 @@
+Feature,Description
+PREV_LOAN_COUNT,"Number of previous loans this applicant has taken out, per bureau records."
+AVG_DAYS_OVERDUE,Average number of days overdue across all previous bureau loans.
+MAX_DAYS_OVERDUE,Worst (maximum) days-overdue value across all previous bureau loans.
+TOTAL_DEBT_OTHER_LOANS,Total outstanding debt across all other loans on record.
+ACTIVE_LOAN_RATIO,Proportion of previous loans that are currently active vs. closed.
+RECENT_AVG_DAYS_OVERDUE,"Average days overdue, restricted to loans from the last 2 years."
+RECENT_MAX_DAYS_OVERDUE,"Worst days-overdue value, restricted to loans from the last 2 years."
+AVG_PAYMENT_DELAY,Average gap (in days) between when an installment was due and when it was actually paid.
+AVG_PAYMENT_SHORTFALL,Average difference between the amount owed and the amount actually paid per installment.
+LATE_PAYMENT_COUNT,Total count of installments paid late across this applicant's history.
+REFUSAL_RATE,Proportion of previous loan applications that were refused.
+CANCEL_RATE,Proportion of previous loan applications that were canceled.
+AVG_AMOUNT_REDUCTION,Average difference between the amount requested and the amount actually approved on previous applications.
+EXT_SOURCE_1,Normalized external credit score from data source 1 (exact methodology not disclosed by Kaggle).
+EXT_SOURCE_2,Normalized external credit score from data source 2.
+EXT_SOURCE_3,Normalized external credit score from data source 3.
