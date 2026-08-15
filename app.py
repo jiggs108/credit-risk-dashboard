@@ -1,3 +1,13 @@
+"""
+Credit Default Risk Predictor — Streamlit Dashboard
+
+Interactive tool for predicting loan default probability using a tuned 
+XGBoost model, with SHAP-based explanations for every prediction.
+
+Model: XGBoost (AUC-ROC 0.7687, KS-Statistic 0.4046)
+Data: Home Credit Default Risk dataset (Kaggle)
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
