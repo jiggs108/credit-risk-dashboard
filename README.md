@@ -4,7 +4,7 @@ An end-to-end machine learning project predicting loan default risk, with
 a live interactive dashboard and full SHAP-based explainability for every 
 prediction.
 
-**🔗 [Live Dashboard](https://github.com/jiggs108/credit-risk-dashboard)** | **📄 [Full Report](report.md)**
+**🔗 [Live Dashboard](https://credit-risk-dashboard-jignesh-shah-1008.streamlit.app/)** | **📄 [Full Report](report.md)**
 
 ![ROC Curve Comparison](final_roc_comparison.png)
 
